@@ -6,7 +6,7 @@ This project was originally created in **February 2022** along with the [Wordle 
 
 **Paraulogic** is a web-based word game where you try to find as many words as possible using a required letter and optional letters. This project is a **solver** that helps you find valid words efficiently.
 
-Try the live version [**here**](https://solve-wordle-cat.onrender.com).
+Try the live version [**here**](https://paraulogic-solver.onrender.com).
 
 
 ## Table of Contents
